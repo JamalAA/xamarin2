@@ -1,0 +1,13 @@
+C:\Users\JamalAhmed\Desktop\Minutes\Minutes\Minutes\bin\Debug\netstandard2.0\Minutes.deps.json
+C:\Users\JamalAhmed\Desktop\Minutes\Minutes\Minutes\bin\Debug\netstandard2.0\Minutes.dll
+C:\Users\JamalAhmed\Desktop\Minutes\Minutes\Minutes\bin\Debug\netstandard2.0\Minutes.pdb
+C:\Users\JamalAhmed\Desktop\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Minutes.csprojAssemblyReference.cache
+C:\Users\JamalAhmed\Desktop\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\JamalAhmed\Desktop\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\JamalAhmed\Desktop\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Minutes.csproj.CoreCompileInputs.cache
+C:\Users\JamalAhmed\Desktop\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Minutes.AssemblyInfoInputs.cache
+C:\Users\JamalAhmed\Desktop\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Minutes.AssemblyInfo.cs
+C:\Users\JamalAhmed\Desktop\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\JamalAhmed\Desktop\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Minutes.dll
+C:\Users\JamalAhmed\Desktop\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Minutes.pdb
+C:\Users\JamalAhmed\Desktop\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\NoteEntryEditPage.xaml.g.cs
